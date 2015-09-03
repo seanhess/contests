@@ -10,6 +10,6 @@ Installation Instructions
 
 Starting the server
 
-    rackup config.ru
+    RACK_ENV=production rackup
 
 
