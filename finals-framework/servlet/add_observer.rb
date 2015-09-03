@@ -1,4 +1,5 @@
 require 'finals-framework/servlet/base'
+require 'eventmachine'
 
 module FinalsFramework
   module Servlet
